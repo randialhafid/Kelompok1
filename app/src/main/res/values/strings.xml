@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kel2</string>
+    <string-array name="speed">
+        <item>Super</item>
+        <item>Middle</item>
+        <item>Low</item>
+    </string-array>
+</resources>
